@@ -60,21 +60,11 @@ Spring Boot 기반 백엔드 서버와 FastAPI 기반 RAG 서버를 연동하고
 ---
 
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngurwls\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngurwls\&layout=compact)
-
----
-
 ## 📫 Contact
 
-* GitHub: [@youngurwls](https://github.com/youngurwls)
 * Email: [youngurwls@gmail.com](mailto:youngurwls@gmail.com)
+* blog : https://youngurwls.tistory.com/
 
 ---
 
-## ✨ 한 줄 소개
-
-> 문제를 끝까지 파고들고, 서비스 구조와 사용자 경험을 함께 고민하는 백엔드 개발자입니다.
+감사합니다!
